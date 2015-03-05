@@ -1,0 +1,34 @@
+#######
+## KEIL C
+#######
+!*.c 
+!*.h
+   *.log
+   *.plg
+   *.bak
+   *.dep
+   *.uvgui.*
+   *.txt
+   *.o
+   *.d
+   *.crf
+   *.tra
+   *.axf
+   *.hex
+   *.lnp
+   *.sct
+   *.__i
+   *.htm
+   *.plg
+   *.sct
+   *.tra
+   *.administrator
+   *.jackey
+   *.uvopt
+   *.uvproj
+   *.dep
+   *.crf
+   *.i
+   *.ini
+   *.bak
+   *.STM32_Demo/project/test/mdk
